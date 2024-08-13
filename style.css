@@ -97,7 +97,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(Media/index/Banner3.png) no-repeat;
+    background: url(Banner3.png) no-repeat;
     background-size: cover;
     background-position: center;
     box-shadow: 0 .5rem 1rem rgb(0, 0, 0,.2);
@@ -233,7 +233,7 @@ header .fa-bars{
 /*---Uses/Benifits---*/
 
 .uses{
-    background: linear-gradient(rgba(4, 9, 30, 0.2), rgba(4, 9, 30, 0.2)), url(Media/benefits/Woodenbg.png);
+    background: linear-gradient(rgba(4, 9, 30, 0.2), rgba(4, 9, 30, 0.2)), url(Woodenbg.png);
     width: 100%;
     margin: auto;
     text-align: center;
@@ -421,7 +421,7 @@ header .fa-bars{
 }
 
 .boxes{
-    background: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(Media/culture/fox-millet-6624694_1920.jpg);
+    background: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(fox-millet-6624694_1920.jpg);
     background-size: cover;
 }
 
@@ -533,7 +533,7 @@ header .fa-bars{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image:linear-gradient(rgba(4, 9, 30, 0.1), rgba(4, 9, 30, 0.1)), url(Media/about/SubBanner1.png);
+    background-image:linear-gradient(rgba(4, 9, 30, 0.1), rgba(4, 9, 30, 0.1)), url(SubBanner1.png);
     background-position: center;
     background-size: cover;
     box-shadow: 0 .5rem 1rem rgba(117, 11, 11,.3);
@@ -931,7 +931,7 @@ body {
 
     .home{
         background-position: left;
-        background: url(Media/index/TabBanner1.png) no-repeat;
+        background: url(TabBanner1.png) no-repeat;
         background-size: cover;
     }
 
@@ -975,7 +975,7 @@ body {
     }
 
     .home{
-        background: url(Media/index/MobileBanner1.png) no-repeat;
+        background: url(MobileBanner1.png) no-repeat;
         background-size: cover;
     }
 
